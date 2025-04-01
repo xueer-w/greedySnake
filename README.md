@@ -46,6 +46,10 @@ to begin the snake game:
 have a fun!
 
 # Game Demo
+you can  also  watch the video game demo on douyin 
+
+1.25 08/16 X@m.Dh Xmd:/ # 编程 # 游戏制作 # DIY 终于玩上了自己亲手制作的贪吃蛇 算是对以前没得玩的补偿吧 X﹏X 简易版  https://v.douyin.com/aXj549Fa_go/ 复制此链接，打开Dou音搜索，直接观看视频！ 
+
 
 ![image](game_snap.png)
 
