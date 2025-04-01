@@ -20,7 +20,7 @@ Showcases Pygame integration with 200+ lines of didactic code
 Includes debugging tips and performance optimization notes
 
 # License & Attribution:
-Developed by XuJu Zhong (钟旭炬) under MIT License.
+Developed by XuJu Zhong (钟旭炬) under GPL-3.0 license.
 ▸ For source code sharing/modification:
 Retain original author credit in header comments
 Preserve license file in distribution
@@ -47,6 +47,6 @@ have a fun!
 
 # Game Demo
 
-![image] game_snap.png
+![image](game_snap.png)
 
-![image] game_snap2.png
+![image](game_snap2.png)
