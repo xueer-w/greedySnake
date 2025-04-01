@@ -28,7 +28,6 @@ Preserve license file in distribution
 # Contact Developer:
 📧 2756447543@qq.com
 
-📱 (+86) 182-7648-9248
 
 Your feedback and suggestions are valuable for improving this learning resource!
 
