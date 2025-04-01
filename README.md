@@ -32,8 +32,9 @@ Preserve license file in distribution
 
 Your feedback and suggestions are valuable for improving this learning resource!
 
-# begin playing snake game 
+# Begin playing snake game 
 to begin the snake game:
+
     use ArrowUp         ^   for                    up control;
     
     use ArrowLeft       <   for                    left control; 
