@@ -44,3 +44,9 @@ to begin the snake game:
     use ArrowDown  (you can guess it !) for        down control;
 
 have a fun!
+
+# Game Demo
+
+![image] game_snap.png
+
+![image] game_snap2.png
